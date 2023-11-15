@@ -1,0 +1,47 @@
+header{
+    height: 125px;
+    width: 100%;
+    background-color: black;
+    border-radius: 25px;
+}
+
+main{
+    height: 750px;
+    width: 100%;
+    background-color: black;
+    border-radius: 25px;
+}
+
+footer{
+    height: 125px;
+    width: 100%;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.logo{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    border: solid 5px black;
+    overflow: hidden;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+  }
+  
+  .nome{
+    color: white;
+    position: absolute;
+    font-size: 50px;
+    top: 35px;
+    left: 160px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .slogan{
+    color: white;
+    position: absolute;
+    top:100px;
+    left: 200px;
+  }

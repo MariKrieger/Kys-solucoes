@@ -1,0 +1,221 @@
+header{
+    width: 100%;
+    height: 125px;
+    background-color: black;
+    border-radius: 25px;
+}
+
+main{
+    width: 100%;
+    height: 800px;
+    background-color: green;
+    border-radius: 25px;
+}
+
+footer{
+    width: 100%;
+    height: 125px;
+    background-color: black;
+    border-radius: 25px;
+}
+
+.terra{
+    border-radius: 50%;
+    width: 220px;
+    height: 220px;
+    border: solid 5px black;
+    overflow: hidden;
+    position: absolute;
+    right: 520px;
+    top: 145px;
+}
+
+.parte1{
+    height: 500px;
+    width: 400px;
+    background-color: rgb(215, 192, 192,0.4);
+    border-radius: 25px;
+    position: absolute;
+    bottom: -310px;
+    left: 20px;
+    border: solid 2px black;
+    color: white;
+}
+
+.parte2{
+    height: 500px;
+    width: 400px;
+    background-color:  rgb(215, 192, 192,0.4);
+    border-radius: 25px;
+    position: absolute;
+    bottom: -310px;
+    right: 429.5px;
+    border: solid 2px black;
+    color: white;
+}
+
+.parte3{
+    height: 500px;
+    width: 400px;
+    background-color:  rgb(215, 192, 192,0.4);
+    border-radius: 25px;
+    position: absolute;
+    bottom: -310px;
+    right: 20px;
+    border: solid 2px black;
+    color: white;
+}
+
+.logo{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    border: solid 5px black;
+    overflow: hidden;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+}
+
+.background{
+    overflow: hidden;
+    border-radius: 25px;
+}
+
+.arvore{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    border: solid 5px black;
+    overflow: hidden;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    position: absolute;
+    left: 135px;
+}
+
+.energia{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    border: solid 5px black;
+    overflow: hidden;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    position: absolute;
+    left: 135px;
+}
+
+.agua{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    border: solid 5px black;
+    overflow: hidden;
+    position: absolute;
+    left: 10px;
+    top: 5px;
+    position: absolute;
+    left: 135px;
+}
+
+.texto{
+    color: white;
+    position: absolute;
+    top: 240px;
+    left: 540px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -webkit-text-stroke: black 1px;
+}
+
+.nome{
+    color: white;
+    position: absolute;
+    font-size: 50px;
+    top: 35px;
+    left: 160px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.slogan{
+    color: white;
+    position: absolute;
+    top:100px;
+    left: 200px;
+}
+
+.login{
+    position: absolute;
+    top: 35px;
+    right: 30px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 4px;
+}
+
+.inscrever{
+    position: absolute;
+    top: 34px;
+    right: 160px;
+    background-color: black;
+    color: white;
+    border: 2px solid #4CAF50; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 4px;
+}
+
+.contato{
+    color: white;
+    position: absolute;
+    bottom: -413px;
+    left: 30px;
+}
+
+.atendimento{
+    color: white;
+    position: absolute;
+    bottom: -395px;
+    left: 250px;
+}
+
+.atendimento2{
+    color: white;
+    position: absolute;
+    bottom: -395px;
+    left: 380px;
+}
+
+.terratexto{
+    position: absolute;
+    top: 200px;
+}
+
+.energiatexto{
+    position: absolute;
+    top: 200px;
+}
+
+.aguatexto{
+    position: absolute;
+    top: 200px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
